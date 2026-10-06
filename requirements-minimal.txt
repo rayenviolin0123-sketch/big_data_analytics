@@ -1,0 +1,11 @@
+# Use this if a wheel for polars / pyarrow / duckdb is not yet available for your Python version.
+# The app still runs: ingestion falls back to pandas and the SQL console is disabled.
+streamlit>=1.36
+pandas>=2.1
+numpy>=1.26
+plotly>=5.20
+matplotlib>=3.8
+seaborn>=0.13
+scipy>=1.11
+openpyxl>=3.1
+xlrd>=2.0.1

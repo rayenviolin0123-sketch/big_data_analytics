@@ -1,0 +1,3 @@
+# Optional integrations — install only if you need them
+pyspark>=3.5        # distributed processing (needs Java 11+)
+kafka-python>=2.0   # streaming ingestion

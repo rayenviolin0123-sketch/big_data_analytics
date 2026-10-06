@@ -1,0 +1,16 @@
+# Core
+streamlit>=1.36
+pandas>=2.1
+numpy>=1.26
+scipy>=1.11
+plotly>=5.20
+openpyxl>=3.1
+xlrd>=2.0.1
+matplotlib>=3.8
+seaborn>=0.13
+# Big-data engines (the app falls back to pandas if one of these cannot be installed)
+polars>=1.0
+pyarrow>=15.0
+duckdb>=1.0
+# Optional: PNG export of Plotly charts
+kaleido>=0.2.1
