@@ -1,6 +1,6 @@
 <div align="center">
 
-![Big Data Analytics banner](docs/images/banner.png)
+![Big Data Analytics banner](banner.png)
 
 # 📊 Big Data Analytics Dashboard
 
@@ -74,11 +74,11 @@ Live progress, records processed / remaining, rows per second and stage status.
 
 ### Trends and categories
 
-![Trends](docs/images/trends.png)
+![Trends](trends.png)
 
 ### Correlation analysis
 
-<p align="center"><img src="docs/images/correlations.png" alt="Correlation heatmap" width="640"></p>
+<p align="center"><img src="correlations.png" alt="Correlation heatmap" width="640"></p>
 
 ---
 
@@ -144,7 +144,7 @@ Live progress, records processed / remaining, rows per second and stage status.
 
 ## 🏗️ Architecture
 
-![Architecture](docs/images/architecture.png)
+![Architecture](architecture.png)
 
 ```mermaid
 flowchart LR
