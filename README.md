@@ -380,8 +380,3 @@ python -m streamlit run app.py
 
 Released under the [MIT License](LICENSE).
 
-<div align="center">
-
-⭐ If this project helps you, consider giving it a star on GitHub.
-
-</div>
